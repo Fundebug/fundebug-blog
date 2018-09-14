@@ -14,3 +14,7 @@
 - [10个最佳ES6特性](https://blog.fundebug.com/2017/08/21/10-best-es6-feature/)
 - [我从Angular 2转向Vue.js, 也没有选择React](https://blog.fundebug.com/2017/09/20/why-we-moved-from-angular2-to-vue/)
 - [10个JavaScript难点](https://blog.fundebug.com/2017/07/17/10-javascript-difficulties/)
+
+### 微信公众号
+
+![](./weixin.jpeg)
