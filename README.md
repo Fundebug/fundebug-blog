@@ -17,4 +17,4 @@
 
 ### 微信公众号
 
-![](./weixin.jpeg)
+![](https://image.fundebug.com/weixin_small.png)
