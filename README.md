@@ -17,4 +17,4 @@
 
 ### 微信公众号
 
-![](https://image.fundebug.com/weixin_small.png)
+![](https://static.fundebug.cn/wechat_slogan.png)
